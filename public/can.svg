@@ -1,0 +1,16 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M100 104L100 214" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M67 73L67 183" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M155 104L155 214" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M188 73L188 183" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M67 182.583L100.028 214" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M67 73L100.028 104.417" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M67 73.4166L100.028 42" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M187.833 182.583L154.805 214" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M187.833 73L154.805 104.417" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M187.833 73.4166L154.805 42" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M155 214L100 214" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M155 104.417L100 104.417" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M155 42L100 42" stroke="black" stroke-width="15" stroke-linecap="round"/>
+<path d="M113 73H139" stroke="black" stroke-width="10" stroke-linecap="round"/>
+</svg>
